@@ -1,0 +1,26 @@
+{
+  "name": "celalettin-ayvaci",
+  "version": "1.0.0",
+  "description": "Celalettin Ayvacının ilk projesidir.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cello": "echo 'Benim Adım Cello'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deneme"
+  ],
+  "author": "Celalettin Ayvacı",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.11",
+    "nodemailer": "^6.3.0",
+    "simple-is": "^0.2.0"
+  },
+
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Celalettin34/Celalettin-NPM-firstProject.git"
+  }
+}
